@@ -6,6 +6,6 @@
 
 Es conveniente incluir el archivo .gitignore porque nos permite omitir automaticamente los archivos que no necesitamos en un repositorio para el correcto funcionamiento de este. Lo ideal es crearlo antes de comenzar a trabajar en el proyecto que se quiera subir a github. Configuraría el archivo a través de gitignore.io según el sistema operativo, lenguaje de programación o IDE.
 
-### Revise los archivos subidos en su repositorio de github. ¿Qué archivos vé? ¿Cuál cree que no hace falta que esté?
+#### Revise los archivos subidos en su repositorio de github. ¿Qué archivos vé? ¿Cuál cree que no hace falta que esté?
 
 Además de los archivos creados siguiendo la consigna, se observan los archivos .vscode y tp1_1.exe, que no hacen falta.
