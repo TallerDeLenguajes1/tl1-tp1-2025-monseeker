@@ -9,3 +9,7 @@ Es conveniente incluir el archivo .gitignore porque nos permite omitir automatic
 #### Revise los archivos subidos en su repositorio de github. ¿Qué archivos vé? ¿Cuál cree que no hace falta que esté?
 
 Además de los archivos creados siguiendo la consigna, se observan los archivos .vscode y tp1_1.exe, que no hacen falta.
+
+#### Si resolvió correctamente los apartados 2 y 3 del punto anterior notará que el resultado es el mismo. ¿a qué se debe? ¿Qué obtiene en el punto 4? ¿Es igual a los anteriores? ¿Por qué? Responder en el archivo readme.md  
+
+Los apartados 2 y 3 son iguales porque contienen la misma dirección de memoria, la de la variable a. En el punto 4 obtenemos el espacio en la memoria ocupado por el puntero. Ambos resultados son distintos, ya que el primero tiene la finalidad de mostrar la dirección de la variable almacenada y el segundo, de mostrar dónde se escuentra almacenado el puntero.
